@@ -1,3 +1,4 @@
+# MOVED TO: https://github.com/goddessfreya/GABS
 A small collection of scripts that I use to rebuild most of my AUR packages in a
 clean chroot, plus a selection of PKGBUILDs.
 
